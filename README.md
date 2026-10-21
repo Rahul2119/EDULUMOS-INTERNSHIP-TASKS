@@ -30,6 +30,3 @@ python face_detection_image.py photo.jpg
 
 ## Skills learned
 Computer Vision basics, OpenCV, Haar Cascade, image processing
-
-## Output
-(Yahan apne output ka screenshot daalo)
